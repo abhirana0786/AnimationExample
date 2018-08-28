@@ -1,0 +1,15 @@
+{
+  "name": "animationexample",
+  "version": "1.0.0",
+  "description": "Animation Example that is Typewriter Effect on any element",
+  "main": "index.js",
+  "dependencies": {
+    "ityped": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
