@@ -1,2 +1,2 @@
 # AnimationExample
-Typewriter Moving Animation
+Typewriter Moving Text
